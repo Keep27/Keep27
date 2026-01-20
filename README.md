@@ -27,10 +27,10 @@ Still figuring things out, one commit at a time. Let's connect!
 **Let's build together!**
 I'm open to collaborating on beginner-friendly projects. Reach out if you want to learn and build something cool.
 
-- 📧 Email: ndamesepete@gmail.com
-- 💼 LinkedIn: [Ndame Sepete](https://linkedin.com/in/ndame-sepete-72ab2b385)
-- 🐦 Twitter/X: [@NdameSepete](https://twitter.com/ndamesepete)
-- 💬 Discord: ndame.
+📧 Email: ndamesepete@gmail.com
+💼 LinkedIn: [Ndame Sepete](https://linkedin.com/in/ndame-sepete-72ab2b385)
+🐦 Twitter/X: [@NdameSepete](https://twitter.com/ndamesepete)
+💬 Discord: ndame.
 
 **Am currently Listening to:**
 

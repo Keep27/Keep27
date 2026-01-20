@@ -15,7 +15,7 @@ Right now, I'm diving into Git, exploring web development, and figuring out how 
 - Growing my GitHub presence
 
 **Some things about me:**
-- When I'm not coding: Gaming (online & PC), watching anime, reading manga, hitting the gym, building things, reading articles
+- When I'm not coding: Gaming (online & PC), watching anime, reading manga, watch videos on PC's, hitting the gym, building things, reading articles
 - Favourite artists: OneRepublic, Twenty-One Pilots
 - Favourite laptop: ThinkPad
 - Based in Lusaka, Zambia
@@ -31,7 +31,10 @@ I'm open to collaborating on beginner-friendly projects. Reach out if you want t
 - 💼 LinkedIn: [Ndame Sepete](https://linkedin.com/in/ndame-sepete-72ab2b385)
 - 🐦 Twitter/X: [@NdameSepete](https://twitter.com/ndamesepete)
 - 💬 Discord: ndame.
+<<<<<<< HEAD
 
 **Am currently Listening to:**
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&redirect=true)
+=======
+>>>>>>> 9d4969c3ce256f575124c7258e4d606353a55896

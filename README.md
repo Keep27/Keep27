@@ -31,3 +31,7 @@ I'm open to collaborating on beginner-friendly projects. Reach out if you want t
 - 💼 LinkedIn: [Ndame Sepete](https://linkedin.com/in/ndame-sepete-72ab2b385)
 - 🐦 Twitter/X: [@NdameSepete](https://twitter.com/ndamesepete)
 - 💬 Discord: ndame.
+
+**Am currently Listening to:**
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&redirect=true)

@@ -35,6 +35,4 @@ I'm open to collaborating on beginner-friendly projects. Reach out if you want t
 
 **Am currently Listening to:**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&redirect=true)
-=======
->>>>>>> 9d4969c3ce256f575124c7258e4d606353a55896
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317jkfecyrgnphfsfaxtbrvmi67i&redirect=true)

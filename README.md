@@ -22,8 +22,6 @@ Right now, I'm diving into Git, exploring web development, and figuring out how 
 
 Still figuring things out, one commit at a time. Let's connect!
 
-![Keep27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keep27&show_icons=true&theme=radical)
-
 **Let's build together!**
 I'm open to collaborating on beginner-friendly projects. Reach out if you want to learn and build something cool.
 
